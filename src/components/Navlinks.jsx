@@ -1,7 +1,7 @@
 const NavLinks = () => {
     return (
         <div className="hidden md:block">
-            <ul className="flex justify-between text-slate-400 font-bold">
+            <ul className="flex justify-around gap-5 text-slate-400 font-semibold">
                 <li>Home</li>
                 <li>About</li>
                 <li>Contact</li>
