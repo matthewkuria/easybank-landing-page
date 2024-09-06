@@ -6,12 +6,18 @@
 body{
     font-size: 18px;
     font-family: "Public Sans", sans-serif;
+    overflow-x: hidden;
+    z-index: 0;
+    background-color: #fafafa;
 }
 .heading{
     color: #2d314d;
 }
 p{
     color: 	#9698a6;
+}
+.intro-image{
+    background: url("./assets/images/bg-intro-mobile.svg");
 }
 
 
