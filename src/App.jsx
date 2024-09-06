@@ -8,7 +8,7 @@ import Hero from './components/Hero'
 function App() {
 
   return (
-    <main className="">
+    <main className="relative p-2 z-0">
       <NavBar />
       <Hero />
     </main>
