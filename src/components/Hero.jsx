@@ -2,7 +2,7 @@ import imageMockUps from "../assets/images/image-mockups.png"
 import Button from "./Button"
 export default function Hero() {
     return (
-        <div className="intro-image flex flex-col-reverse  md:flex md:flex-row items-center   mt-4">
+        <div className="intro-image">
             <div className=" flex-col text-left  md:p-20  mt-10 p-5">
                 <h1 className="heading text-4xl">Next generation digital banking</h1>
                 <p className="my-3">Take your financial life online. Your Easybank
