@@ -3,7 +3,7 @@ import Button from "./Button"
 export default function Hero() {
     return (
         <div className="intro-image">
-            <div className=" flex-col text-left  md:p-20  mt-10 p-5">
+            <div className=" flex-col text-left  md:p-20  mt-96 p-5">
                 <h1 className="heading text-4xl">Next generation digital banking</h1>
                 <p className="my-3">Take your financial life online. Your Easybank
                     account will be a one-stop-shop for spending, saving, budgeting,
