@@ -3,7 +3,7 @@
   text-align: center;
 }
 .intro-image{
-    background: url("./assets/images/bg-intro-mobile.svg") no-repeat;
+    background: url("./assets/images/bg-intro-mobile.svg") no-repeat contain;
     background-position: 20% 40%;
 }
 
